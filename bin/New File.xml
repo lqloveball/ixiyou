@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!-- 这游戏MV的ID -->
+	<mvid><![CDATA[]]></mvid>
+	<!-- 这个MV的票数 -->
+	<vote><![CDATA[]]></vote>
+	<!-- 背景音乐 demo歌曲ID -->
+	<demoid><![CDATA[]]></demoid>
+	<!-- MV名称 歌词标题名-->
+	<mvname><![CDATA[]]></mvname>
+	<!-- 歌词 考虑到歌词内包含分割使用的特殊字符返回字还是麻烦点用 XML节点分割开来-->
+	<lyrics>
+
+	</lyrics>
+	<!-- 用户上传个歌曲完整路径 -->
+	<songpath><![CDATA[]]></songpath>
+	<!-- 选择车的颜色 0-7 分别对应8辆车 -->
+	<color><![CDATA[]]></color>
+	<!-- 背景样式 0 1 2 分别3种背景-->
+	<background><![CDATA[]]></background>
+	<!--  照片的相对路径 -->
+	<photopath><![CDATA[]]></photopath>
+</data>
+
